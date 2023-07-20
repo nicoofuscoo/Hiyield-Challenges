@@ -1,7 +1,8 @@
-*
-!wp-content/
+/*
+!.gitignore
+!wp-content
+
 wp-content/*
-!wp-content/themes/
+!wp-content/themes
 wp-content/themes/*
-!wp-content/themes/hiyieldCustom
-!wp-content/themes/hiyieldCustom/*
+!wp-content/themes/hiyeildCustom
